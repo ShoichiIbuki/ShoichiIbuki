@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=ShoichiIbuki&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoichiIbuki&layout=compact&theme=dracula)
+![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=ShoichiIbuki&peng=false)
+![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=ShoichiIbuki)
 
 ### Languages and Tools:
 <p align="left">
