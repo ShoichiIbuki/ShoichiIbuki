@@ -3,6 +3,9 @@
 ![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=ShoichiIbuki&peng=false)
 ![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=ShoichiIbuki)
 
+### About my research
+https://www-int.ist.osaka-u.ac.jp/user/ibuki/
+
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
